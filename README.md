@@ -1,4 +1,4 @@
-Changes by me:
+##Changes by me:##  
 Replaced 144x144 to 152x152, 114x114 to 120x120, 72x72 to 76, 'cause of [new Apple's recommended icon sizes](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html).
 
 
